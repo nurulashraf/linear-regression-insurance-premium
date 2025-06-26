@@ -1,1 +1,1 @@
-# linear-regression-insurance-premium
+# Predicting Insurance Premiums using Linear Regression
